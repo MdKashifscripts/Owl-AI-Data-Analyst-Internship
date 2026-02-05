@@ -27,13 +27,10 @@ Excel file used for this report:
 ## Dashboard Screenshots
 
 ### Main Dashboard
-![Dashboard Page 1](./dashboard_page1.png)
+### 📊 Power BI Dashboard
 
-### Sales & Marketing Analysis
-![Dashboard Page 2](./dashboard_page2.png)
+![Power BI Dashboard](screenshots/power_bi_desktop_view.png)
 
-### Data Model View
-![Model View](./model_view.png)
 
 ## KPIs Included
 - Total Marketing Spend
