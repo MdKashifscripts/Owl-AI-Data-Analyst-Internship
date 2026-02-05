@@ -26,11 +26,8 @@ Excel file used for this report:
 
 ## Dashboard Screenshots
 
-### Main Dashboard
-### 📊 Power BI Dashboard
-
-![Power BI Dashboard](screenshots/power_bi_desktop_view.png)
-
+## Task 3 – Dashboard Screenshot
+[![Task 3 Screenshot](Power-BI-Desktop-View/Power-BI-Desktop-view.png)](Power-BI-Desktop-View/Power-BI-Desktop-view.png)
 
 ## KPIs Included
 - Total Marketing Spend
@@ -42,9 +39,6 @@ Excel file used for this report:
 The `.pbix` file is not uploaded as GitHub does not support Power BI files.
 All visuals, KPIs, and data transformations are demonstrated via screenshots.
 
-
-
-  
 Each task is placed in a separate folder for clarity and easy review.
 
 ## 👤 Submitted by
