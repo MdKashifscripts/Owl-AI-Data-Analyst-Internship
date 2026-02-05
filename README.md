@@ -10,7 +10,8 @@ This repository contains all the tasks completed as part of the Owl AI internshi
 Design and publish an interactive Power BI dashboard that highlights key insights.
 - [sales report.pdf](https://github.com/user-attachments/files/25078004/sales.report.pdf) – Power BI report file
 - [sales_data_cleaned.csv.xlsx](https://github.com/user-attachments/files/25077911/sales_data_cleaned.csv.xlsx)– Sales dataset
-- [View Dashboard Screenshot](screenshots/Power BI Desktop View.png)
+- [View Dashboard Screenshot](screenshots/power_bi_desktop_view.png)
+
 
   
 Each task is placed in a separate folder for clarity and easy review.
