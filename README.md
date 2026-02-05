@@ -27,7 +27,8 @@ Excel file used for this report:
 ## Dashboard Screenshots
 
 ## Task 3 – Dashboard Screenshot
-[![Task 3 Screenshot](Power-BI-Desktop-View/Power-BI-Desktop-view.png)](Power-BI-Desktop-View/Power-BI-Desktop-view.png)
+### Task 3 – Power BI Dashboard
+[![Power BI Dashboard](Power-BI-Desktop-View/Model-View.png)](Power-BI-Desktop-View/Model-View.png)
 
 ## KPIs Included
 - Total Marketing Spend
