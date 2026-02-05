@@ -8,9 +8,43 @@ This repository contains all the tasks completed as part of the Owl AI internshi
 - **Task 3:** [Interactive Dashboard in Power BI]
 - Objective:
 Design and publish an interactive Power BI dashboard that highlights key insights.
-- [sales report.pdf](https://github.com/user-attachments/files/25078004/sales.report.pdf) – Power BI report file
-- [sales_data_cleaned.csv.xlsx](https://github.com/user-attachments/files/25077911/sales_data_cleaned.csv.xlsx)– Sales dataset
-- [View Dashboard Screenshot](screenshots/power_bi_desktop_view.png)
+# Task 3 – Sales & Marketing Performance Dashboard (Power BI)
+
+## Overview
+This dashboard was created using Power BI Desktop.  
+Due to college account restrictions, the report could not be published to Power BI Service.
+Hence, screenshots and source data are provided.
+
+## Tools Used
+- Power BI Desktop
+- Microsoft Excel
+- GitHub
+
+## Dataset
+Excel file used for this report:
+- [Download Excel Data][Excel file.xlsx](https://github.com/user-attachments/files/25102237/Excel.file.xlsx)
+
+## Dashboard Screenshots
+
+### Main Dashboard
+![Dashboard Page 1](./dashboard_page1.png)
+
+### Sales & Marketing Analysis
+![Dashboard Page 2](./dashboard_page2.png)
+
+### Data Model View
+![Model View](./model_view.png)
+
+## KPIs Included
+- Total Marketing Spend
+- Number of Sales
+- Total Sales
+- Average Sales Value
+
+## Notes
+The `.pbix` file is not uploaded as GitHub does not support Power BI files.
+All visuals, KPIs, and data transformations are demonstrated via screenshots.
+
 
 
   
