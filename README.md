@@ -3,8 +3,10 @@
 This repository contains all the tasks completed as part of the Owl AI internship application for the Data Analyst role.
 
 ## 📂 Tasks Overview
-- **Task 1:** [Task 1 - Role of Data_Analyst_3.docx](https://github.com/user-attachments/files/24993865/Task.1.-.Role.of.Data_Analyst_3.docx)
-- **Task 2:** [Task 2 - Excel Basics.xlsx](https://github.com/user-attachments/files/25016585/Task.2.-.OWL.Ai.xlsx)
+
+- **Task 1:** [Task 1 -[Task.1.-.Role.of.Data_Analyst_3.docx](https://github.com/user-attachments/files/25160268/Task.1.-.Role.of.Data_Analyst_3.docx)
+- **Task 2:** [Excel.file.xlsx](https://github.com/user-attachments/files/25160165/Excel.file.xlsx)
+
 - **Task 3:** [Interactive Dashboard in Power BI]
 - Objective:
 Design and publish an interactive Power BI dashboard that highlights key insights.
