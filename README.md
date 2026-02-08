@@ -25,10 +25,9 @@ Excel file used for this report:
 - [Download Excel Data][Excel file.xlsx](https://github.com/user-attachments/files/25102237/Excel.file.xlsx)
 
 ## Dashboard Screenshots
-
-## Task 3 – Dashboard Screenshot
 ### Task 3 – Power BI Dashboard
 ![img alt](https://github.com/MdKashifscripts/Owl-AI-Data-Analyst-Internship/blob/main/Power-BI-Desktop-View/Model-View.png?raw=true)
+![img alt](https://github.com/MdKashifscripts/Owl-AI-Data-Analyst-Internship/blob/main/Power-BI-Desktop-View/Powe-BI-Desktop-view.png?raw=true)
 
 ## KPIs Included
 - Total Marketing Spend
